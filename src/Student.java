@@ -34,6 +34,7 @@ public class Student {
     }
    
     void testAll()
+    void myTest()
  {
      System.out.println("Hello");
      return;
